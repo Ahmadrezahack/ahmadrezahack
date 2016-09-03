@@ -285,7 +285,7 @@ Kick all memebers and delete group
 !kill realm [RealmID]
 Kick all members and delete realm
 
-!addadmin [id|username]
+!addadmin [267782286|username]
 Promote an admin by id OR username *Sudo only
 
 !removeadmin [id|username]
